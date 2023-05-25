@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Vinayak Soni</h1>
 <h3 align="center">A passionate AI professional.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaysoni2310&label=Profile%20views&color=0e75b6&style=flat" alt="vinaysoni2310" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinaysoni2310" alt="vinaysoni2310" /></a> </p>
 
 - 🔭 I’m currently working on [My AI Utils Website](https://github.com/Vinaysoni2310/MyAI_Utils_Site)
 
 - 👯 I’m looking to collaborate on **AI ML projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vinaysoni2310/Profile](https://github.com/Vinaysoni2310/Profile)
+- 👨‍💻 All of my projects are available at [Profile](https://github.com/Vinaysoni2310/Profile)
 
 - 💬 Ask me about **AI, ML, NLP**
 
@@ -29,4 +29,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaysoni2310&show_icons=true&locale=en&layout=compact" alt="vinaysoni2310" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinaysoni2310&" alt="vinaysoni2310" /></p>
